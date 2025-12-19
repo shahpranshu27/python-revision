@@ -1,0 +1,7 @@
+This is a sample text file
+Second line
+Third line
+Fourth line
+This is appended line
+This is appended line
+This is appended line
